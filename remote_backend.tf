@@ -6,3 +6,4 @@ terraform {
       name = "tf-vault-starter-aws-wrapper"
     }
   }
+}
